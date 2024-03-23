@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Unity 3D VR**
 
-- 💬 Ask me about **SaaS**
 
 - 📫 How to reach me **alealeksicc@gmail.com**
 
